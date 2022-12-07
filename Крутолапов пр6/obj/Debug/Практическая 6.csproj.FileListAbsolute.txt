@@ -1,0 +1,54 @@
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\Практическая 6.csproj.AssemblyReference.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\Практическая 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\App.g.cs
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\Практическая 6_MarkupCompile.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Практическая 6\obj\Debug\Практическая 6_MarkupCompile.lref
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.csproj.AssemblyReference.cache
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\MainWindow.g.cs
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\App.g.cs
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6_MarkupCompile.cache
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6_MarkupCompile.lref
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\bin\Debug\Практическая 6.exe.config
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\bin\Debug\Практическая 6.exe
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\bin\Debug\Практическая 6.pdb
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\MainWindow.baml
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.g.resources
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая_6.Properties.Resources.resources
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.exe
+C:\Users\kruto\Desktop\Новая папка\Практическая 6\obj\Debug\Практическая 6.pdb
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\bin\Debug\Практическая 6.exe.config
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\bin\Debug\Практическая 6.exe
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\bin\Debug\Практическая 6.pdb
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.csproj.AssemblyReference.cache
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\MainWindow.g.cs
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\App.g.cs
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6_MarkupCompile.cache
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6_MarkupCompile.lref
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\MainWindow.baml
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.g.resources
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая_6.Properties.Resources.resources
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.exe
+C:\Users\kruto\Desktop\Новая папка\Крутолапов пр6\obj\Debug\Практическая 6.pdb
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\bin\Debug\Практическая 6.exe.config
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\bin\Debug\Практическая 6.exe
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\bin\Debug\Практическая 6.pdb
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.csproj.AssemblyReference.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\MainWindow.g.cs
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\App.g.cs
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6_MarkupCompile.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6_MarkupCompile.lref
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\MainWindow.baml
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.g.resources
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая_6.Properties.Resources.resources
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.csproj.GenerateResource.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.csproj.CoreCompileInputs.cache
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.exe
+C:\Users\исп-31\Desktop\Крутолапов Валерий\Крутолапов пр6\obj\Debug\Практическая 6.pdb
